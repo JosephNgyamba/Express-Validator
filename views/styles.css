@@ -1,0 +1,11 @@
+body{
+    margin:auto;
+    padding: auto;
+    background-color: antiquewhite;
+}
+.formulaire{
+    margin:auto;
+    padding: auto;
+    width: 50%;
+    margin-left: 25%;
+}
